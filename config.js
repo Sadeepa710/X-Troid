@@ -15,7 +15,7 @@ module.exports = {
     VERSION: '4.5 ADMIN',
     CCRUN: "zeks",
     GG:"Error 101",
-    CHANNEL: 'https://t.me/danumabots',
+    CHANNEL: 'dew',
     MENU_EMOJI: process.env.EMOJI === undefined ?'🔮' : process.env.EMOJI,
     DESC_EMOJI: process.env.DEMOJI === undefined ?'🪅' : process.env.DEMOJI,
     SONG_UP_TEXT: process.env.SONGUPMSG === undefined ?'🪅' : process.env.SONGUPMSG,
@@ -25,7 +25,7 @@ module.exports = {
     MENU_IMAGE: process.env.MENUIMG === undefined ?'' : process.env.MENUIMG,
     CAPTION_KEY: process.env.CP === undefined ?'    ⚜ X-Troid Pro ⚜' : process.env.CP,
     ALIVETEXT: process.env.ALIVEMSG === undefined ?'😈 Admin 😈' : process.env.ALIVEMSG,
-    ALIVEIMG: process.env.ALIVEIMG === undefined ? 'https://telegra.ph/file/a143b34753c8434058e87.jpg' : process.env.ALIVEIMG,
+    ALIVEIMG: process.env.ALIVEIMG === undefined ? ' dew' : process.env.ALIVEIMG,
     GIF_WEL: process.env.GIF_WEL === undefined ?'https://netfiletolink.herokuapp.com/49353' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ?'https://webfilesdanuma.herokuapp.com/stream/14' : process.env.GIF_BYE,
 
@@ -33,7 +33,7 @@ module.exports = {
     SESSION: process.env.A_XTROID_SESSION === undefined ? '' : process.env.A_XTROID_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://telegra.ph/file/b11ff90ad6a02293fefaf.jpg' : process.env.GAN_IMAGE,
+    GANSTYLE: process.env.GAN_IMAGE === undefined ? 'dew' : process.env.GAN_IMAGE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
 
